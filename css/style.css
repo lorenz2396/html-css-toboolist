@@ -57,7 +57,7 @@ h3{
 */
 .area-div{
     padding-top: 10px;
-    padding-left: 10px;
+    padding-left: 40px;
 }
 
 .button{
@@ -119,10 +119,27 @@ hr{
     color: red;
 }
 
-/* .icon{
-    color: black;
+.icon{
+    color: white;
     border-radius: 50px;
-    height: 40px;
-    width: 150px;   
-} */
+    height: 20px;
+    width: 30px;
+    padding: 5px; 
+    font-size: x-small;  
+}
 
+.blue{
+    background-color: cornflowerblue;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.purple{
+    background-color: darkorchid;
+}
+
+.orange{
+    background-color: orangered;
+}
