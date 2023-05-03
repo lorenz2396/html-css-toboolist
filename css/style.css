@@ -106,7 +106,7 @@ hr{
     display: inline-block;
     text-align: center;
     vertical-align: middle;
-    padding-bottom: 30px;
+    line-height: 25px;
 }
 
 .done {
@@ -129,17 +129,25 @@ hr{
 }
 
 .blue{
-    background-color: cornflowerblue;
+    background-color: #45abea;
 }
 
 .green{
-    background-color: greenyellow;
+    background-color: #b0c926;
 }
 
 .purple{
-    background-color: darkorchid;
+    background-color: #9c72e4;
 }
 
 .orange{
-    background-color: orangered;
+    background-color: #f2a541;
+}
+
+.azure{
+    background-color: #62bfa7;
+}
+
+.rose{
+    background-color: #62bfa7;
 }
